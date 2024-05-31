@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação de redações para o ENEM usando IA's
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A partir de comparações de IA's são criadas redações dissertativas argumentativas no estilo ENEM, que se diferencia pela necessidade de uma proposta de intervenção ao final do texto. Foram considerados o uso de conectivos, formalidade, profundidade do assunto abordado, diagramação e etc.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini, ChatGPT, Copy.AI e WriteSonic (todas gratuitas e disponíveis em pt-br).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para cada uma, solicitei uma redação com o tema "Desafios para o enfrentamento da invisibilidade do trabalho de cuidado realizado pela mulher no Brasil", em alguns dos casos precisei especificar alguns pontos como o número de parágrafos e a necessidade de uma proposta de intervenção, nessequesito o ChatGPT se saiu melhor, precisou de apenas um comando. Após isso comparei cada uma das redações geradas, algumas seguiram os requisitos mas geraram redações tratndo o assunto de forma muito rasa, o que no ENEM não é uma boa prática. Por isso a WriteSonic, IA cm foco em geração de textos, foi a que gerou o melhor texto tratando o assunto de forma profunda e seguindo a ideia do ENEM com poucos comandos, creio que ela ainda poderia ser melhorada com mais alguns comandos mas a ideia aqui é ver como elas se comportam com um pouco de autonomia e praticidade para o usuário que está solicitando o texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A invisibilidade do trabalho de cuidado realizado pela mulher no Brasil é um problema estrutural que reflete a desigualdade de gênero e o desequilíbrio na divisão das responsabilidades domésticas e de cuidado. Esse cenário perpetua a sobrecarga das mulheres, impactando negativamente sua participação no mercado de trabalho e seu desenvolvimento pessoal. Diante desse contexto, é fundamental discutir os desafios enfrentados e propor intervenções eficazes para promover a equidade de gênero e o reconhecimento do trabalho de cuidado desempenhado pelas mulheres.
+A desigualdade de gênero e as funções específicas atribuídas às mulheres perpetuam a invisibilidade do trabalho de cuidado, resultando em sobrecarga e duplas jornadas. A construção social que diferencia as responsabilidades de homens e mulheres reforça a ideia de que o cuidado é uma tarefa feminina, desvalorizando-a no contexto econômico e social. Essa desigualdade impacta diretamente a participação das mulheres no mercado de trabalho e em seu desenvolvimento pessoal e profissional.
+A falta de reconhecimento e valorização do trabalho de cuidado realizado pelas mulheres reflete-se na ausência de políticas públicas eficazes e na remuneração inadequada para atividades relacionadas ao cuidado. Essa invisibilidade econômica e social contribui para a perpetuação do ciclo de desigualdade de gênero, afetando o desenvolvimento individual e coletivo das mulheres. É crucial promover a valorização financeira e social do trabalho de cuidado, reconhecendo sua importância para a sociedade e a economia.
+Diante do exposto, é imprescindível que o Estado implemente políticas públicas que promovam a equidade de gênero e o reconhecimento do trabalho de cuidado realizado pelas mulheres. Isso inclui a criação de programas de capacitação e valorização profissional para atividades de cuidado, a adoção de políticas de licença parental equitativas e a promoção de campanhas de conscientização sobre a importância do compartilhamento igualitário das responsabilidades. Além disso, é fundamental fomentar iniciativas que incentivem a participação ativa dos homens nas tarefas de cuidado e domésticas, contribuindo para a construção de uma sociedade mais justa e igualitária.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+As IA's cada vez mais estão se tornando mais interessantes para todo tipo de uso, hoje existem diversas opções no mercado, cada uma com seu propósito, que apesar de interessantes exigem mais cuidado dos usuários ao nevegarem pela internet, exemplo disso é o deepfake, que hoje em dia é relativamente simples criar. Apesar do cuidado a ser tomado com os maus intencionados, a inteligência artificial está numa exponencial de melhoria de desempenho, rapidez e inteligência e é difícil imaginar a capacidade dela em 5 anos e como ela pode ter revolucionado nosso dia a dia.
