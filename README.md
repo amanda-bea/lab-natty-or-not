@@ -21,20 +21,20 @@ para o usuário que está solicitando o texto.
 
 ## 🚀 Resultados
 
-A invisibilidade do trabalho de cuidado realizado pela mulher no Brasil é um problema estrutural que reflete a desigualdade
+  A invisibilidade do trabalho de cuidado realizado pela mulher no Brasil é um problema estrutural que reflete a desigualdade
 de gênero e o desequilíbrio na divisão das responsabilidades domésticas e de cuidado. Esse cenário perpetua a sobrecarga das
 mulheres, impactando negativamente sua participação no mercado de trabalho e seu desenvolvimento pessoal. Diante desse contexto,
 é fundamental discutir os desafios enfrentados e propor intervenções eficazes para promover a equidade de gênero e o reconhecimento
 do trabalho de cuidado desempenhado pelas mulheres.
-A desigualdade de gênero e as funções específicas atribuídas às mulheres perpetuam a invisibilidade do trabalho de cuidado,
+  A desigualdade de gênero e as funções específicas atribuídas às mulheres perpetuam a invisibilidade do trabalho de cuidado,
 resultando em sobrecarga e duplas jornadas. A construção social que diferencia as responsabilidades de homens e mulheres
 reforça a ideia de que o cuidado é uma tarefa feminina, desvalorizando-a no contexto econômico e social. Essa desigualdade
 impacta diretamente a participação das mulheres no mercado de trabalho e em seu desenvolvimento pessoal e profissional.
-A falta de reconhecimento e valorização do trabalho de cuidado realizado pelas mulheres reflete-se na ausência de políticas
+  A falta de reconhecimento e valorização do trabalho de cuidado realizado pelas mulheres reflete-se na ausência de políticas
 públicas eficazes e na remuneração inadequada para atividades relacionadas ao cuidado. Essa invisibilidade econômica e social
 contribui para a perpetuação do ciclo de desigualdade de gênero, afetando o desenvolvimento individual e coletivo das mulheres.
 É crucial promover a valorização financeira e social do trabalho de cuidado, reconhecendo sua importância para a sociedade e a economia.
-Diante do exposto, é imprescindível que o Estado implemente políticas públicas que promovam a equidade de gênero e o reconhecimento
+  Diante do exposto, é imprescindível que o Estado implemente políticas públicas que promovam a equidade de gênero e o reconhecimento
 do trabalho de cuidado realizado pelas mulheres. Isso inclui a criação de programas de capacitação e valorização profissional para
 atividades de cuidado, a adoção de políticas de licença parental equitativas e a promoção de campanhas de conscientização sobre a
 importância do compartilhamento igualitário das responsabilidades. Além disso, é fundamental fomentar iniciativas que incentivem
